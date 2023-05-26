@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646408393719",
+    "project_id": "basetcdmx",
+    "storage_bucket": "basetcdmx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646408393719:android:b78b19310a1673fd2154f2",
+        "android_client_info": {
+          "package_name": "com.example.plataformav1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646408393719-4og2hmhff7uk0bcmrrsnh84mavjd0g95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTIMEcSQ7XeeVKM4-JBTvgWtWJMjy9ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646408393719-4og2hmhff7uk0bcmrrsnh84mavjd0g95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
